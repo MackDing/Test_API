@@ -1,5 +1,5 @@
 ### Test_API
-### Acceptance Criteria:**
+**Acceptance Criteria:**
 - Name = "Carbon credits"
 - CanRelist = true
 - The Promotions element with Name = "Gallery" has a Description that contains the text "Good position in category"
